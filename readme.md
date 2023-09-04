@@ -1,6 +1,6 @@
-# EntityComponentSystem
+# Entity Component System
 
-Simple header-only ECS (Entity Component System) written in C++17
+Simple header-only ECS written in C++17
 
 ## Usage
 
